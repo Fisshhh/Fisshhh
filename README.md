@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/nguyen.hoang.tien.814699" alt="Facebook">
-    <img src="https:https://icons8.com/icons/set/facebook-logo" target="_blank" />
+    <img src="https://icons8.com/icons/set/facebook-logo"/>
   </a> 
 </p>
 
